@@ -23,4 +23,6 @@ I used GitHub actions to configure my GitHub repository. the workflow was used t
 ## 8. GitHub Link
 https://github.com/Ntokozo675/SocialSparks1/blob/515bc4d8bc8f32c5d806ddd903e26960c9c6d42d/app/src/main/java/com/example/myapplication/MainActivity.kt#L53
 ## 9. References 
+
 1. Android Developer, August 08, 2025, Android Studio, Available at: https://developer.android.com/studio , Accessed on ( 05 September 2026)
+2. Correlation 1, March 29,2026, what is Git and GitHub? How Version Control works/ Available at :https://www.youtube.com/watch?app=desktop&v=5eDdEn9Qqa8&ra=m , Accessed on (05 September 2026)
