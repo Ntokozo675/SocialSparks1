@@ -26,3 +26,4 @@ https://github.com/Ntokozo675/SocialSparks1/blob/515bc4d8bc8f32c5d806ddd903e2696
 
 1. Android Developer, August 08, 2025, Android Studio, Available at: https://developer.android.com/studio , Accessed on ( 05 September 2026)
 2. Correlation 1, March 29,2026, what is Git and GitHub? How Version Control works/ Available at :https://www.youtube.com/watch?app=desktop&v=5eDdEn9Qqa8&ra=m , Accessed on (05 September 2026)
+3.FreeCodecamp, August 16 , 2021. How to use GitHub Actions to Automate Android App Development, Available at: https://www.youtube.com/watch?app=desktop&v=5eDdEn9Qqa8&ra=m Accessed on (05 September 2026)
