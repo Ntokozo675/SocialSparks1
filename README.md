@@ -22,3 +22,5 @@ I used GitHub actions to configure my GitHub repository. the workflow was used t
 <img width="659" height="419" alt="github" src="https://github.com/user-attachments/assets/82100a04-e106-4ff3-93f4-d4ef94d0bba0" />
 ## 8. GitHub Link
 https://github.com/Ntokozo675/SocialSparks1/blob/515bc4d8bc8f32c5d806ddd903e26960c9c6d42d/app/src/main/java/com/example/myapplication/MainActivity.kt#L53
+## 9. References 
+1. Android Developer, August 08, 2025, Android Studio, Available at: https://developer.android.com/studio , Accessed on ( 05 September 2026)
